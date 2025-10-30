@@ -1,6 +1,6 @@
 # Telemedicine-and-Emergency-Services-Platform-
 Cymos is a compliance‑ready, multi‑stakeholder platform that unifies telemedicine, emergency frequency response, and regulatory/legal support into a single, secure ecosystem. It is designed to protect individuals and organizations from harmful frequency exposures while ensuring rapid access to medical, emotional, and legal care.
-Here’s a polished Public Disclosure Statement you can use to introduce Cymos to partners, regulators, or investors. It’s structured like a formal announcement, but also investor‑ready.
+Public Disclosure Statement you can use to introduce Cymos to partners, regulators, or investors.
 
 ---
 
